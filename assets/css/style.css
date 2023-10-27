@@ -80,7 +80,7 @@ a {
 
 .card {
   background-color: var(--bg-primary);
-  width: 350px;
+  min-width: 350px;
   box-shadow: 0px 0px 10px 2px gray;
   border-radius: 5px;
 }
