@@ -1,5 +1,20 @@
+/* #region reset rules */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+/* #endregion reset rules */
+
+/* #region colors */
+:root {
+  --bg-primary: #0f0e17;
+  --bg-title: #e53170;
+  --bg-mail: #0093e7;
+}
+/* #endregion colors */
+
+/* #region utilities */
+body {
+  font-family: "Fredoka", sans-serif;
 }
