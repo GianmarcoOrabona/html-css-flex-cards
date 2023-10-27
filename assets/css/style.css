@@ -59,6 +59,7 @@ img {
 .card {
   background-color: var(--bg-primary);
   width: 350px;
+  box-shadow: 0px 0px 10px 2px gray;
 }
 
 .card-info {
